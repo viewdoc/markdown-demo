@@ -1,0 +1,13 @@
+{
+  "name": "@viewdoc/markdown-example",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "https://github.com/viewdoc/markdown-example",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "@viewdoc/markup-demo": "^0.1.0"
+  }
+}
