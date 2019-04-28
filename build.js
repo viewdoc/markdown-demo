@@ -8,9 +8,9 @@ const main = async () => {
     srcExtensions: ['.md'],
     generateSrc: (markup) => {
       return [
-        '```markdown',
+        '````',
         markup,
-        '```',
+        '````',
       ].join('')
     }
   })

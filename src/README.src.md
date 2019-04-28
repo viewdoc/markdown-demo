@@ -85,13 +85,17 @@ This is a code block.
 
 ## Horizontal Rules
 
-Three or more asterisks, dashes or underscores on a line.
-
 // markup-start
+
+Three or more asterisks
 
 ***
 
+Three or more dashes
+
 ---
+
+Three or more underscores
 
 ___
 
