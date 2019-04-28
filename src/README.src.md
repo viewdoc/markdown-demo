@@ -114,5 +114,6 @@ ___
 
 ## Resources
 
+- https://www.markdownguide.org/basic-syntax
 - https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
