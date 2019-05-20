@@ -1,3 +1,3 @@
 # Page 1
 
-[Back to Links](/)
+[Back to Links](./)

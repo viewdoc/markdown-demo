@@ -2,8 +2,8 @@
 
 ## Relative Links
 
-- [Page 1](/page1.md)
-- [Page 2](page2)
+- [Page 1](/links/page1.md)
+- [Page 2](./page2.md)
 
 ## Absolute Links
 
