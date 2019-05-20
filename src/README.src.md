@@ -75,6 +75,8 @@ This is a code block.
 
 // markup-end
 
+[More examples](/links)
+
 ## Blockquotes
 
 // markup-start
